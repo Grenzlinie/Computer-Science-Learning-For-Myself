@@ -1,5 +1,6 @@
 # Computer-Science-Learning-For-Myself
-Record the learning Route of Computer Science
+Record the Learning Route of Computer Science
+记录一下自己学习计算机知识的经历
 
 # Machine Learning & Deep Learning
 * 这一部分学习了台湾大学李宏毅老师的课程：https://www.youtube.com/watch?v=gmsMY5kc-zw&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J&index=11
